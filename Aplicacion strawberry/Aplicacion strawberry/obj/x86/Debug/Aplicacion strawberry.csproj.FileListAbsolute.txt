@@ -1,0 +1,17 @@
+C:\Users\Maxcel Center\Documents\Visual Studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\bin\Debug\DBapp.mdf
+C:\Users\Maxcel Center\Documents\Visual Studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\bin\Debug\DBapp_log.ldf
+C:\Users\Maxcel Center\Documents\Visual Studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\bin\Debug\Aplicacion strawberry.exe
+C:\Users\Maxcel Center\Documents\Visual Studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\bin\Debug\Aplicacion strawberry.pdb
+C:\Users\Maxcel Center\Documents\Visual Studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\obj\x86\Debug\Aplicacion_strawberry.Form1.resources
+C:\Users\Maxcel Center\Documents\Visual Studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\obj\x86\Debug\Aplicacion_strawberry.Properties.Resources.resources
+C:\Users\Maxcel Center\Documents\Visual Studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\obj\x86\Debug\Aplicacion strawberry.csproj.GenerateResource.Cache
+C:\Users\Maxcel Center\Documents\Visual Studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\obj\x86\Debug\Aplicacion strawberry.exe
+C:\Users\Maxcel Center\Documents\Visual Studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\obj\x86\Debug\Aplicacion strawberry.pdb
+C:\Users\Maxcel Center\Documents\Visual Studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\obj\x86\Debug\Aplicacion_strawberry.Iniciosesion.resources
+C:\Users\Maxcel Center\Documents\Visual Studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\obj\x86\Debug\Aplicacion_strawberry.formaencuentro.resources
+C:\Users\Maxcel Center\documents\visual studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\obj\x86\Debug\Aplicacion strawberry.csprojResolveAssemblyReference.cache
+C:\Users\Maxcel Center\documents\visual studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\bin\Debug\Aplicacion strawberry.exe.config
+C:\Users\Maxcel Center\documents\visual studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\obj\x86\Debug\Aplicacion_strawberry.DatosUsuario.resources
+C:\Users\Maxcel Center\documents\visual studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\obj\x86\Debug\Aplicacion_strawberry.espectar.resources
+C:\Users\Maxcel Center\documents\visual studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\obj\x86\Debug\Aplicacion_strawberry.evento.resources
+C:\Users\Maxcel Center\documents\visual studio 2010\Projects\Aplicacion strawberry\Aplicacion strawberry\obj\x86\Debug\Aplicacion_strawberry.jugar1v1.resources
